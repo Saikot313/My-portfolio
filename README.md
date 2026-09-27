@@ -1,4 +1,4 @@
-# Sakender Portfolio — Next.js + TypeScript + Tailwind
+# My Portfolio - Next.js + TypeScript + Tailwind
 
 ## Stack
 - Next.js 14 (App Router)
