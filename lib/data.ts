@@ -86,7 +86,6 @@ export const projects: Project[] = [
       "A responsive, animated Next.js site built with reusable TypeScript components and Tailwind CSS.",
     aiAssisted: true,
     githubUrl: "https://github.com/yourusername/portfolio",
-    liveUrl: "https://your-portfolio-domain.com",
   },
   {
     title: "6C Mess Manager",
@@ -95,7 +94,7 @@ export const projects: Project[] = [
       "Web app for meal tracking, fund and expense management with localStorage persistence.",
     aiAssisted: false,
     githubUrl: "https://github.com/yourusername/portfolio",
-    liveUrl: "https://your-portfolio-domain.com",
+    liveUrl: "https://c-mess-management.web.app/",
   },
   {
     title: "Mess Expense Tracker",
